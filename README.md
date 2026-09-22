@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raman
-- 👀 I’m interested in Web Technologies, System Design 
+- 👀 I’m interested in building Products which solves and derives revenue.
 - 📫 How to reach me ramannew9@gmail.com
 
 <!---
